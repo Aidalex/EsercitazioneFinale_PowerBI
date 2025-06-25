@@ -2,7 +2,7 @@
 
 
 # **Analisi e-commerce Olist Store**  
-*(Anni 2016-2018, dati elaborati con Power Query)*  
+*(Anni 2016-2018, dati elaborati con PowerBI)*  
 
 Il progetto ha riguardato l'analisi dei dati di Olist Store, un e-commerce brasiliano, attraverso la creazione di un report dinamico in Power BI. Partendo dai dataset originali (2016-2018), ho ottimizzato la struttura trasformando i dati in uno schema a stella, con tabelle fatti e dimensioni dedicate.
 
