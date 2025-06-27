@@ -8,7 +8,8 @@ Il progetto ha riguardato l'analisi dei dati di Olist Store, un e-commerce brasi
 
 Durante la preparazione dei dati, ho sistemato formati e valori: recensioni convertite in numeri, ID in testo, valute uniformate (punti sostituiti con virgole) e stati federativi estesi per il corretto mapping geografico. Un'attenta pulizia ha evidenziato 775 ordini con dettagli mancanti, integrati nell'analisi complessiva.
 
-Sono state create misure specifiche per calcolare ricavi, variazioni annue e valutazioni clienti, permettendo di visualizzare l'andamento delle vendite con filtri temporali, geografici e delle categorie merceologiche.  Il risultato è un report interattivo che trasforma dati complessi in informazioni chiare, pronto per l'esplorazione e l'analisi strategica.  
+Sono state create misure specifiche per calcolare ricavi, variazioni annue e valutazioni clienti, permettendo di visualizzare l'andamento delle vendite con filtri temporali, geografici e delle categorie merceologiche. 
+Il risultato è un report interattivo che trasforma dati complessi in informazioni chiare, pronto per l'esplorazione e l'analisi strategica. Questo strumento offre anche l'opportunità di approfondire anomalie, come le vendite precedentemente menzionate (775), che, nonostante incidano solo per l'1,02% delle entrate, corrispondono a circa 163K R$. Grazie alle recensioni, è possibile verificare che la valutazione media è stata di 1,73, evidenziando così alcune criticità.
 
 **Tecnologie utilizzate:**  
 
